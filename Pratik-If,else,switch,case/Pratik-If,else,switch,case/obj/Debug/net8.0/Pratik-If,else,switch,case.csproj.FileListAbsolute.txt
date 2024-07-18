@@ -1,0 +1,14 @@
+D:\Yazılım\Repository\Pratik-If,else,switch,case\Pratik-If,else,switch,case\bin\Debug\net8.0\Pratik-If,else,switch,case.exe
+D:\Yazılım\Repository\Pratik-If,else,switch,case\Pratik-If,else,switch,case\bin\Debug\net8.0\Pratik-If,else,switch,case.deps.json
+D:\Yazılım\Repository\Pratik-If,else,switch,case\Pratik-If,else,switch,case\bin\Debug\net8.0\Pratik-If,else,switch,case.runtimeconfig.json
+D:\Yazılım\Repository\Pratik-If,else,switch,case\Pratik-If,else,switch,case\bin\Debug\net8.0\Pratik-If,else,switch,case.dll
+D:\Yazılım\Repository\Pratik-If,else,switch,case\Pratik-If,else,switch,case\bin\Debug\net8.0\Pratik-If,else,switch,case.pdb
+D:\Yazılım\Repository\Pratik-If,else,switch,case\Pratik-If,else,switch,case\obj\Debug\net8.0\Pratik-If,else,switch,case.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\Repository\Pratik-If,else,switch,case\Pratik-If,else,switch,case\obj\Debug\net8.0\Pratik-If,else,switch,case.AssemblyInfoInputs.cache
+D:\Yazılım\Repository\Pratik-If,else,switch,case\Pratik-If,else,switch,case\obj\Debug\net8.0\Pratik-If,else,switch,case.AssemblyInfo.cs
+D:\Yazılım\Repository\Pratik-If,else,switch,case\Pratik-If,else,switch,case\obj\Debug\net8.0\Pratik-If,else,switch,case.csproj.CoreCompileInputs.cache
+D:\Yazılım\Repository\Pratik-If,else,switch,case\Pratik-If,else,switch,case\obj\Debug\net8.0\Pratik-If,else,switch,case.dll
+D:\Yazılım\Repository\Pratik-If,else,switch,case\Pratik-If,else,switch,case\obj\Debug\net8.0\refint\Pratik-If,else,switch,case.dll
+D:\Yazılım\Repository\Pratik-If,else,switch,case\Pratik-If,else,switch,case\obj\Debug\net8.0\Pratik-If,else,switch,case.pdb
+D:\Yazılım\Repository\Pratik-If,else,switch,case\Pratik-If,else,switch,case\obj\Debug\net8.0\Pratik-If,else,switch,case.genruntimeconfig.cache
+D:\Yazılım\Repository\Pratik-If,else,switch,case\Pratik-If,else,switch,case\obj\Debug\net8.0\ref\Pratik-If,else,switch,case.dll
